@@ -1,4 +1,4 @@
-# Go Lang P2P journey
+# Go Lang
  Here is a study guide that you can use to turn yourself from a Go Lang beginner to a junior P2P blockchain developer in 6 months, assuming that you will do an hour of learning every day.  
  
  Month 1: Learn the Basics of Go Lang  Install Go Lang and set up your development environment. Learn the basics of Go programming language, including syntax, data types, variables, and control structures. Get familiar with the standard library, and learn how to use packages and modules. Write some simple Go programs to practice what you've learned. 
